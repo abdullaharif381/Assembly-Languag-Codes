@@ -1,5 +1,6 @@
 [org 0x100]
 
+
 jmp start
 arr: db 3,5,9,3,5,9
 encrypt:
